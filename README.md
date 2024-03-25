@@ -16,8 +16,6 @@ This repository hosts a Salesforce Org project aimed at demonstrating and refini
 - [Documentation](#documentation)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 
