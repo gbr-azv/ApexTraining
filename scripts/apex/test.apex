@@ -5,3 +5,6 @@ acctList.add(new Account(Name='Acme2'));
 
 // DML statement
 System.debug(acctList);
+
+List<String> test = StringArrayTest.generateStringArray(5);
+System.debug(test);
